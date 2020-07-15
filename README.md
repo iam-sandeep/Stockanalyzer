@@ -1,2 +1,2 @@
 # Stockanalyzer
-Prediction of stock exchane
+Prediction of stock exchange
